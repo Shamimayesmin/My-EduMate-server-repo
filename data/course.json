@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        
+        "course_id": "01",
+        "rating":4.5 ,
+        "duration": "4 year",
+        "fee" : 256,
+        "title": "Computer Science  & Engineering",
+        "img": "https://i.ibb.co/G0ppF00/course1.jpg",
+        "description" : "",
+        "picture" : ""
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        
+        "course_id": "02",
+        "rating":4.5 ,
+        "duration": "4 year",
+        "fee" : 256,
+        "title": "Bachelor of Business Administration",
+        "img": "https://i.ibb.co/nmHJCFw/course2.jpg",
+        "description" : "",
+        "picture" : ""
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        
+        "course_id": "03",
+        "rating":4.5 ,
+        "duration": "4 year",
+        "fee" : 256,
+        "title": "Social & Digital Marketing",
+        "img": "https://i.ibb.co/Vm1g2W4/course3.jpg",
+        "description" : "",
+        "picture" : ""
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        
+        "course_id": "04",
+        "rating":4.5 ,
+        "duration": "4 year",
+        "fee" : 256,
+        "title": "Bachelor of Applied Mathematics",
+        "img": "https://i.ibb.co/5WXjxJ6/course4.jpg",
+        "description" : "",
+        "picture" : ""
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        
+        "course_id": "05",
+        "rating":4.5 ,
+        "duration": "4 year",
+        "fee" : 256,
+        "title": "Bachelor of Applied Physics",
+        "img": "https://i.ibb.co/MfRgKzy/course5.jpg",
+        "description" : "",
+        "picture" : ""
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        
+        "course_id": "06",
+        "rating":4.5 ,
+        "duration": "4 year",
+        "fee" : 256,
+        "title": "Bachelor of Micro Biology",
+        "img": "https://i.ibb.co/4s04hxH/course6.webp",
+        "description" : "",
+        "picture" : ""
+    }
+]
