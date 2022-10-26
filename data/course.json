@@ -8,8 +8,8 @@
         "fee" : 234,
         "title": "Computer Science  & Engineering",
         "img": "https://i.ibb.co/G0ppF00/course1.jpg",
-        "description" : "There’s no clear cut computer engineering description or definition because there are a variety of tasks and functions computer engineers perform depending on their industry and where they work.The simple answer is computer engineering combines computer science with electronic engineering, which allows engineers to create hardware that works with computer networks. To get a clearer picture of what computer engineering consists of, a better question might be, what do computer engineers do exactly?Computer engineers design, create, and test computer hardware and software, analyze the results, and update outdated equipment so that it’s ready to use with new software. Some engineers also oversee manufacturing and development processes, while others are more involved in testing software.",
-        "picture" : ""
+        "description" : "There’s no clear cut computer engineering description or definition because there are a variety of tasks and functions computer engineers perform depending on their industry and where they work.The simple answer is computer engineering combines computer science with electronic engineering, which allows engineers to create hardware that works with computer networks. To get a clearer picture of what computer engineering consists of, a better question might be, what do computer engineers do exactly?Computer engineers design, create, and test computer hardware and software, analyze the results, and update outdated equipment so that it’s ready to use with new software. Some engineers also oversee manufacturing and development processes, while others are more involved in testing software."
+        
     },
     {
         "_id": "02",
@@ -20,8 +20,8 @@
         "fee" : 160,
         "title": "Bachelor of Business Administration",
         "img": "https://i.ibb.co/nmHJCFw/course2.jpg",
-        "description" : "A business administration degree is a comprehensive, multidisciplinary program that incorporates subjects ranging from marketing, and accounting to human resources and economics, along with mathematics, business law, finance, and ethics. While related majors or degree programs might focus on a select aspect of business, such as management, business administration covers all of the topics listed above to provide students with a well-rounded understanding of how to operate a business successfully.Some undergraduate and graduate degree programs, such as the business administration degree at National University, feature a track or concentration that prepares students to enter or advance along a specific career path within or related to that field. For instance, an accounting program might feature a concentration in forensic accounting. From marketing to economics, there are numerous concentrations for business students to explore, opening the gateway to plentiful career options — but also to some potential confusion.",
-        "picture" : ""
+        "description" : "A business administration degree is a comprehensive, multidisciplinary program that incorporates subjects ranging from marketing, and accounting to human resources and economics, along with mathematics, business law, finance, and ethics. While related majors or degree programs might focus on a select aspect of business, such as management, business administration covers all of the topics listed above to provide students with a well-rounded understanding of how to operate a business successfully.Some undergraduate and graduate degree programs, such as the business administration degree at National University, feature a track or concentration that prepares students to enter or advance along a specific career path within or related to that field. For instance, an accounting program might feature a concentration in forensic accounting. From marketing to economics, there are numerous concentrations for business students to explore, opening the gateway to plentiful career options — but also to some potential confusion."
+        
     },
     {
         "_id": "03",
@@ -32,8 +32,8 @@
         "fee" : 120,
         "title": "Social & Digital Marketing",
         "img": "https://i.ibb.co/18CbPDy/course10.jpg",
-        "description" : "Digital marketing is the process of promoting and selling products or services on the Internet using one or more marketing channels like search engines, social media platforms, and PPC advertising.With digital marketing, you can find audiences interested in your brand, interact with them, and nurture them until they become customers.The most important digital marketing types are search engine marketing, content marketing, PPC advertising, social media marketing, and email marketing.",
-        "picture" : ""
+        "description" : "Digital marketing is the process of promoting and selling products or services on the Internet using one or more marketing channels like search engines, social media platforms, and PPC advertising.With digital marketing, you can find audiences interested in your brand, interact with them, and nurture them until they become customers.The most important digital marketing types are search engine marketing, content marketing, PPC advertising, social media marketing, and email marketing."
+       
     },
     {
         "_id": "04",
@@ -45,7 +45,7 @@
         "title": "Bachelor of Applied Mathematics",
         "img": "https://i.ibb.co/5WXjxJ6/course4.jpg",
         "description" : "Applied mathematics involves the application of mathematics to problems which arise in various areas, e.g., science, engineering or other diverse areas, and/or the development of new or improved methods to meet the challenges of new problems.We view applied math as the application of mathematics to real-world problems with the dual goal of explaining observed phenomena and predicting new, as yet unobserved, phenomena. Therefore, the emphasis is on both the mathematics, e.g. the development of new methods to meet the challenges of new problems, and the real world.The problems come from various applications, such as physical and biological sciences, engineering, and social sciences. Their solutions require knowledge of various branches of mathematics, such as analysis, differential equations, and stochastics, utilizing analytical and numerical methods. Very often our faculty members and students interact directly with experimentalists to see their research results come to life.",
-        "picture" : ""
+        
     },
     {
         "_id": "05",
