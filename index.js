@@ -13,21 +13,21 @@ app.get('/', (req, res) =>{
 
 })
 
-app.get('/courses-categoris', (req,res) =>{
+app.get('/category', (req,res) =>{
     res.send(categories)
 })
 
 app.get('/category/:id',(req,res) =>{
     const id = req.params.id;
-    const category_course = courses.find(n => n.course_id === id)
-    res.send(category_course)
+    
 
-    // if(id === '06'){
-    //     res.send(courses);
-    // }
-    // else{
-        
-    // }
+    if(id === '06'){
+        res.send(courses);
+    }
+    else{
+        const category_course = courses.find(n => n.course_id === id)
+        res.send(category_course)
+    }
     
 })
 
@@ -37,6 +37,7 @@ app.get('/course', (req,res) =>{
 
 app.get('/course/:id', (req,res)=> {
     const id = req.params.id
+    console.log(id)
     const selectedCourse = courses.find(n => n._id === id)
     res.send(selectedCourse)
 })
@@ -44,3 +45,6 @@ app.get('/course/:id', (req,res)=> {
 app.listen(port, () => {
     console.log('course server running on port', port)
 })
+
+// export the express Api
+ module.exports = app;

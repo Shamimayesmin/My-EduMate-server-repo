@@ -1,6 +1,6 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "01",
         
         "course_id": "01",
         "rating":4.5 ,
@@ -8,67 +8,67 @@
         "fee" : 256,
         "title": "Computer Science  & Engineering",
         "img": "https://i.ibb.co/G0ppF00/course1.jpg",
-        "description" : "",
+        "description" : "There’s no clear cut computer engineering description or definition because there are a variety of tasks and functions computer engineers perform depending on their industry and where they work.The simple answer is computer engineering combines computer science with electronic engineering, which allows engineers to create hardware that works with computer networks. To get a clearer picture of what computer engineering consists of, a better question might be, what do computer engineers do exactly?Computer engineers design, create, and test computer hardware and software, analyze the results, and update outdated equipment so that it’s ready to use with new software. Some engineers also oversee manufacturing and development processes, while others are more involved in testing software.",
         "picture" : ""
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "02",
         
         "course_id": "02",
-        "rating":4.5 ,
+        "rating":4.6 ,
         "duration": "4 year",
         "fee" : 256,
         "title": "Bachelor of Business Administration",
         "img": "https://i.ibb.co/nmHJCFw/course2.jpg",
-        "description" : "",
+        "description" : "A business administration degree is a comprehensive, multidisciplinary program that incorporates subjects ranging from marketing, and accounting to human resources and economics, along with mathematics, business law, finance, and ethics. While related majors or degree programs might focus on a select aspect of business, such as management, business administration covers all of the topics listed above to provide students with a well-rounded understanding of how to operate a business successfully.Some undergraduate and graduate degree programs, such as the business administration degree at National University, feature a track or concentration that prepares students to enter or advance along a specific career path within or related to that field. For instance, an accounting program might feature a concentration in forensic accounting. From marketing to economics, there are numerous concentrations for business students to explore, opening the gateway to plentiful career options — but also to some potential confusion.",
         "picture" : ""
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "03",
         
         "course_id": "03",
-        "rating":4.5 ,
+        "rating":5.7 ,
         "duration": "4 year",
         "fee" : 256,
         "title": "Social & Digital Marketing",
-        "img": "https://i.ibb.co/Vm1g2W4/course3.jpg",
-        "description" : "",
+        "img": "https://i.ibb.co/18CbPDy/course10.jpg",
+        "description" : "Digital marketing is the process of promoting and selling products or services on the Internet using one or more marketing channels like search engines, social media platforms, and PPC advertising.With digital marketing, you can find audiences interested in your brand, interact with them, and nurture them until they become customers.The most important digital marketing types are search engine marketing, content marketing, PPC advertising, social media marketing, and email marketing.",
         "picture" : ""
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "04",
         
         "course_id": "04",
-        "rating":4.5 ,
+        "rating":4.3 ,
         "duration": "4 year",
         "fee" : 256,
         "title": "Bachelor of Applied Mathematics",
         "img": "https://i.ibb.co/5WXjxJ6/course4.jpg",
-        "description" : "",
+        "description" : "Applied mathematics involves the application of mathematics to problems which arise in various areas, e.g., science, engineering or other diverse areas, and/or the development of new or improved methods to meet the challenges of new problems.We view applied math as the application of mathematics to real-world problems with the dual goal of explaining observed phenomena and predicting new, as yet unobserved, phenomena. Therefore, the emphasis is on both the mathematics, e.g. the development of new methods to meet the challenges of new problems, and the real world.The problems come from various applications, such as physical and biological sciences, engineering, and social sciences. Their solutions require knowledge of various branches of mathematics, such as analysis, differential equations, and stochastics, utilizing analytical and numerical methods. Very often our faculty members and students interact directly with experimentalists to see their research results come to life.",
         "picture" : ""
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "05",
         
         "course_id": "05",
-        "rating":4.5 ,
+        "rating":3.3 ,
         "duration": "4 year",
         "fee" : 256,
         "title": "Bachelor of Applied Physics",
-        "img": "https://i.ibb.co/MfRgKzy/course5.jpg",
-        "description" : "",
+        "img": "https://i.ibb.co/QNSPX0b/course8.jpg",
+        "description" : "Contemporary science and engineering are becoming increasingly interdisciplinary. Traditional boundaries between fields have blurred, and new areas, such as nanotechnology and artificially structured materials, are constantly emerging. Applied Physics combines understanding the laws of nature at a fundamental level with a focus on technological applications to provide solutions to important societal problems. As such, it provides an essential link between physics and engineering. The range of phenomena, materials, devices and systems benefiting from research in applied physics is unmatched in its scope and importance.The Yale Applied Physics major offers a unique combination of depth and flexibility through courses and research with which students can maximize their professional development and pursue their own interests. Students majoring in Applied Physics take courses in both physics and engineering, as well as courses specifically in applied physics.",
         "picture" : ""
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "06",
         
         "course_id": "06",
-        "rating":4.5 ,
+        "rating":4.1 ,
         "duration": "4 year",
         "fee" : 256,
         "title": "Bachelor of Micro Biology",
-        "img": "https://i.ibb.co/4s04hxH/course6.webp",
-        "description" : "",
+        "img": "https://i.ibb.co/N2zL31c/course12.jpg",
+        "description" : "Microbiology is the science that deals with the study of microorganisms and the effects of diseases that microorganisms produce. Microbiology studies the shape, structure (morphology), genetic and metabolic processes in microscopic and sub-microscopic organisms.The science of Microbiology is relatively young and it offers practical applications for different areas of human activity: medicine, agriculture, nutrition, biotechnology and more. Theoretical and practical accumulation of nuclear physics, cellular and molecular biology, and information techniques have led to the improvement of Microbiology logistics, resulting in the rapid development of microbiology as a multilateral science. Microbiology touches upon elements of other disciplines like Chemistry, Biomedicine, Public Health, environmental impact and human health.",
         "picture" : ""
     }
 ]
